@@ -30,40 +30,40 @@ Download Python 2.7 and SmartEiffel 2.4.  Depending on what happens with my codi
 
 ### Servers
 
-[oluworld-nntp-server](https://gitlab.com/oluworld/oluworld-nntp-server) <br/>
-[oluworld-pop-server](https://gitlab.com/oluworld/oluworld-pop-server) <br/>
-[oluworld-smtp-server](https://gitlab.com/oluworld/oluworld-smtp-server)
+[oluworld-nntp-server](https://github.com/oluworld/oluworld-nntp-server) <br/>
+[oluworld-pop-server](https://github.com/oluworld/oluworld-pop-server) <br/>
+[oluworld-smtp-server](https://github.com/oluworld/oluworld-smtp-server)
 
 ### Apps
 
-[GetPop/Mail 1-8](https://gitlab.com/oluworld/getpop) <br/>
-[GetNews2Onet](https://gitlab.com/oluworld/getnews2onet) <br/>
-[GetNews](https://gitlab.com/oluworld/getnews)
+[GetPop/Mail 1-8](https://github.com/oluworld/getpop) <br/>
+[GetNews2Onet](https://github.com/oluworld/getnews2onet) <br/>
+[GetNews](https://github.com/oluworld/getnews)
 
 ### AppWorks Demos
 
-[POPFolderDemo](https://gitlab.com/oluworld/popfolderdemo) <br/>
-[DBiTests](https://gitlab.com/oluworld/dbitests)
+[POPFolderDemo](https://github.com/oluworld/popfolderdemo) <br/>
+[DBiTests](https://github.com/oluworld/dbitests)
 
 ### AppWorks
 
-[AppWorks](https://gitlab.com/oluworld/appworks)
+[AppWorks](https://github.com/oluworld/appworks)
 
 ### Games
 
-[NibblesCountry](https://gitlab.com/oluworld/nibblescountry) <br/>
-[Nibbles/Java](https://gitlab.com/oluworld/nibbles-j)
+[NibblesCountry](https://github.com/oluworld/nibblescountry) <br/>
+[Nibbles/Java](https://github.com/oluworld/nibbles-j)
 
 ### Programming Languages
 
-[Alvo](https://gitlab.com/oluworld/alvo-j) <br/>
-[Qiameth](https://gitlab.com/oluworld/qiameth) <br/>
-[SmartEiffel-mod](https://gitlab.com/oluworld/smarteiffel-mod) <br/>
+[Alvo](https://github.com/oluworld/alvo-j) <br/>
+[Qiameth](https://github.com/oluworld/qiameth) <br/>
+[SmartEiffel-mod](https://github.com/oluworld/smarteiffel-mod) <br/>
 
 ### Other (Recent)
 
-[Confabulator](https://gitlab.com/oluworld/confabulator) <br/>
-[Browser](https://gitlab.com/oluworld/browser)
+[Confabulator](https://github.com/oluworld/confabulator) <br/>
+[Browser](https://github.com/oluworld/browser)
 
 ## About the project
 
@@ -71,7 +71,7 @@ OluWorld! is &copy; 2017-{{ "now" | date: "%Y" }} by [the author](mailto:oluoluo
 
 ### License
 
-This software is distributed by an [LGPL license](https://gitlab.com/oluworld/oluworld.github.io/tree/master/LICENSE.LGPL).
+This software is distributed by an [LGPL license](https://github.com/oluworld/oluworld.github.io/tree/master/LICENSE.LGPL).
 
 ### Contributing
 
