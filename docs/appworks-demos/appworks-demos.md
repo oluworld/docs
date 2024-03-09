@@ -3,7 +3,7 @@ layout: default
 title: AppWorks Demos
 nav_order: 5
 has_children: true
-permalink: docs/appworks-demos
+permalink: /docs/appworks-demos
 ---
 
 ## Demos

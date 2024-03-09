@@ -42,7 +42,7 @@ Download Python 2.7 and SmartEiffel 2.4.  Depending on what happens with my codi
 
 ### AppWorks Demos
 
-[POPFolderDemo](https://github.com/oluworld/popfolderdemo) <br/>
+[POPFolderTest](https://github.com/oluworld/popfoldertest) <br/>
 [DBiTests](https://github.com/oluworld/dbitests)
 
 ### AppWorks
@@ -67,7 +67,7 @@ Download Python 2.7 and SmartEiffel 2.4.  Depending on what happens with my codi
 
 ## About the project
 
-OluWorld! is &copy; 2017-{{ "now" | date: "%Y" }} by [the author](mailto:oluoluolu-REMOVE@protonmail.com).
+OluWorld! is &copy; 2000-{{ "now" | date: "%Y" }} by [the author](mailto:oluoluolu-REMOVE@protonmail.com).
 
 ### License
 
@@ -75,12 +75,8 @@ This software is distributed by an [LGPL license](https://github.com/oluworld/ol
 
 ### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more 
-about becoming a contributor in [our GitLab repo](https://github.com/pmarsceill/just-the-docs#contributing).
+Send a PR (or email, etc), and I'll merge it if I like it.  It may take a while.
 
 ### Code of Conduct
 
-OluWorld! is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+There is only one rule: Don't get me (or yourself) banned.
