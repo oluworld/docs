@@ -1,2 +1,2 @@
 
-[Documentation](https://oluworld.github.io/)
+[Documentation](https://oluworld.github.io/docs/)
